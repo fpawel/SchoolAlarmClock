@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:48E182C7
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\io.h"
+NODE:F LEVEL:0 LINE:27 "system_clocks_init(void)"
+NODE:F LEVEL:0 LINE:76 "ports_init(void)"
+NODE:F LEVEL:0 LINE:418 "vports_init(void)"
+NODE:F LEVEL:0 LINE:429 "tc0_disable(struct TC0_t * ptc)"
+NODE:F LEVEL:0 LINE:438 "tcc0_init(void)"
+NODE:F LEVEL:0 LINE:536 "rtcxm_init(void)"
+NODE:F LEVEL:0 LINE:585 "init_main(void)"

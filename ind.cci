@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:48E668F3
+NODE:V LEVEL:0 LINE:2 "ind -> RAM:????"
+NODE:V LEVEL:0 LINE:3 "ind_cnt -> R3"
+NODE:V LEVEL:0 LINE:4 "numberCode -> RAM:????"
+NODE:F LEVEL:0 LINE:17 "ind_encodeNumber(unsigned char number)"
+NODE:F LEVEL:0 LINE:23 "ind_indicateNumber(int DEC)"
